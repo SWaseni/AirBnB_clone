@@ -1,3 +1,5 @@
+# Web Static
 
-AirBnB clone - Web static
+## Description
 
+This project is a collection of static web pages for the Air BnB clone website.
